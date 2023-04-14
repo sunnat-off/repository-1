@@ -1,0 +1,271 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    font-family: "Livvic", sans-serif;
+    font-weight: normal;
+}
+
+.container {
+    max-width: 1150px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.polar-logo {
+    background-color: #ffffff;
+}
+
+.polar-box-logo {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.polar-box-logo-logo-box {
+    width: 900px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.polar-header {
+    background-color: #ffffff;
+}
+
+.logo-box-list-li:nth-child(1) {
+    color: #0142f7;
+}
+
+.logo-box-list-ul {
+
+    width: 450px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style-type: none;
+}
+
+.header-text-box-span {
+    color: #D23166;
+}
+
+.logo-box-li-box {
+    color: #0142f7;
+    border-bottom: 1px solid #0142f7;
+}
+
+.logo-box-bin {
+    width: 165px;
+    height: 49px;
+    background-color: #0142f7;
+    color: #f8f8fb;
+    border: none;
+    border-radius: 8px;
+}
+
+.logo-linc {
+    width: 165px;
+    height: 49px;
+    background-color: #dfdfdf;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    color: #000000;
+}
+
+.header-box {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.big {
+    width: 165px;
+    height: 49px;
+    background-color: #0142f7;
+    color: #f8f8fb;
+    border: none;
+    border-radius: 8px;
+}
+
+.header-text-par {
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+.header-text-p {
+    width: 430px;
+    margin-bottom: 35px;
+}
+
+.header-text-box-span {
+    color: #0142f7;
+}
+
+.polar-box-logo-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-kech-text {
+    margin-left: 50px;
+}
+
+.lll {
+
+    color: #0142f7;
+}
+
+.main-kech-par {
+    margin-bottom: 20px;
+    margin-top: 8px;
+    width: 230px;
+}
+
+.main-kech-par-text {
+    margin-bottom: 20px;
+    width: 410px;
+}
+
+.bag {
+    color: #0142f7;
+}
+
+
+.work-par {
+    margin-top: 100px;
+    margin-left: 470px;
+    margin-bottom: 80px;
+}
+
+.work-ul-list {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    list-style-type: none;
+}
+
+.work-li-list {
+    width: 260px;
+}
+
+.work-list-img {
+    margin-bottom: 30px;
+}
+
+
+
+.saying {
+    margin-bottom: 100px;
+
+}
+
+
+.saying-box-box {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.saying-par-box {
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.saying-blur {
+    width: 82px;
+    height: 283px;
+    background-color: #0142f7;
+    border-radius: 15px 0px 0px 15px;
+}
+.saying-customers-box {
+    position: relative;
+    display: flex;
+    width: 420px;
+    height: 283px;
+}
+.saying-customers-box-img {
+    position: absolute;
+    top: 140px;
+    left: 50px;
+    width: 61px;
+    height: 61px;
+    border: 2px solid #ffffff;
+    border-radius: 30px;
+}
+.saying-customers-box-text {
+    line-height: 25px;
+    margin-top: 30px;
+    width: 190px;
+}
+.saying-hr-box {
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+}
+.saying-customers-text {
+    margin-left: 50px;
+}
+.saying-hr {
+    width: 30px;
+    margin-right: 5px;
+    border: 1px solid black;
+}
+.saying-customers-box-grey-text {
+    color: gray;
+    margin-left: 35px;
+    margin-bottom: 20px;
+}
+
+
+/* signe-up */
+
+
+.section-sign-up {
+    margin-bottom: 150px;
+    margin-top: 130px;
+}
+.sign-up-box-1 {
+    margin-bottom: 15px;
+    color: #0142f7;
+}
+
+.sign-up-box{
+    text-align: center;
+}
+
+.sign-up-box-2{
+    font-weight: 700;
+    font-size: 19px;
+}
+.sign-up-inp{
+    width: 200px;
+    height: 100px;
+    border: none;
+    outline: none;
+}
+.sign-up-fier{
+    margin-left: 250px;
+    width: 550px;
+    border : 2px solid #0142f7;
+}
+.sign-up-fier-image{
+    margin-top: 8px;
+    width: 55px;
+    margin:30px;   
+}
+.saying-box-1{
+    width: 60px;
+}
+.wep-1{
+    display:flex;
+    gap: 150px;
+}
